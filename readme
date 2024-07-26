@@ -1,0 +1,13 @@
+Install Leaflet to access the Google Maps API:
+--https://leafletjs.com/
+
+
+-Visit Leaflet's official site for installation instructions.
+
+-List All Barangays in Lipa, Batangas(all coor of lipa already included ).
+
+-Declare the Density (to be replaced with beneficiary data once the CSV is uploaded). This will enable filtering by color.
+
+Map All Barangays that are already included in the database.
+ 
+
